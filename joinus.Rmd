@@ -1,0 +1,15 @@
+---
+---
+
+<h1> Join Us </h1>
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE }
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
+### Please join us!
+
+* Please fill up the google form for signed up [Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSeZtyuzUcEYSVVVX05RDCRrDaZh_JSpahrXAKbHtkNIaIoLPg/viewform?usp=sf_link)
+
