@@ -3,7 +3,7 @@
 
 <h1> Meetings </h1>
 
-## Fall 2019
+## Fall 2024
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
 library(tidyverse)
@@ -11,25 +11,38 @@ library(knitr)
 library(kableExtra)
 ```
 
+### SDSA Webiners
+
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
 
 tib = tibble(
-  `Topic` = c("TBA", "TBA"),
-  `Date` = c("October 9, 2019; 4 - 4:50pm", 
-             "October 14, 2019; 4 - 4:50pm" 
-             ),
-  `Location` = c("Zoom", "Zoom")
+  `Date` = c(
+    "9/30/2024 1:00pm",
+    "TBD"
+  ),
+  `Speaker` = c(
+    "Wenbo Wu, Assistant Professor, Department of Population Health, NYU",
+    "Webiner"
+    ),
+  `Title` = c(
+    "Webiner",
+    "Webiner"
+    ),
+  `Location` = c(
+    "Zoom",
+    "Zoom"
+   )
 )
 
 kable(tib, row.names = FALSE) %>%
   kable_styling(bootstrap_options = "striped") %>%
-  column_spec(1, width = "15em") %>%
-  column_spec(2, width = "15em") %>%
-  column_spec(3, width = "15em")
+  column_spec(2, width = "25em") %>%
+  column_spec(3, width = "25em")
 
 
 ```
 
 
-<p style="font-size:14px;"> [Previous Semesters' Schedules](old_schedule.html) </p>
+### SDSA Meetings
+
 

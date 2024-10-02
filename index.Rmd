@@ -34,20 +34,24 @@ For other inquiries, you can contact Seonjoo Lee sl3670@cumc.columbia.edu.
 
 
 
+## SDSA Webiners
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
 library(tidyverse)
 library(knitr)
 tib = tibble(
-  `Topics` = c(
+  `Date` = c(
+    "9/30/2024 1:00pm",
+    "TBD"
+  ),
+  `Speaker` = c(
+    "Wenbo Wu, Assistant Professor, Department of Population Health, NYU",
+    "Webiner"
+    ),
+  `Title` = c(
     "Webiner",
     "Webiner"
-),
-  `Date` = c(
-    "TBD",
-    "TBD"
-    )
-  ,
+    ),
   `Location` = c(
     "Zoom",
     "Zoom"
