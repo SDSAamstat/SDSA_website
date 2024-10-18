@@ -9,23 +9,23 @@ output:
 <h1 style="text-align:center">MISSION</h1>
 
 <p>
-SDSA workgroup is primarly focusing on addressing the multifaceted challenges associated with aging. Through the application of advanced statistical methodologies and data-driven approaches, the group aims to elucidate the complex biological, psychological, and sociological processes underlying aging, as well as to predict health trajectories and identify interventions that promote successful aging. Their contributions span several key domains:
+The objective of the Interest Group is to:
 
-* Longitudinal Data Analysis: Aging research frequently involves the collection of repeated measurements over extended periods. Statistical models such as survival analysis, generalized linear mixed models, and time-varying covariate models are employed to appropriately account for intra-individual variability, temporal dynamics, and censored data. These methods are critical for understanding the progression of age-related conditions and identifying risk factors.
+* Serve as the primary group at ASA for furthering methodological and substantive activity in statistics and data science related to aging research.
 
-* Addressing Population Heterogeneity: The aging population is highly heterogeneous due to variations in genetic background, environmental exposures, and lifestyle factors. The work group applies methods such as latent class analysis, hierarchical clustering, and Bayesian hierarchical models to capture and model this heterogeneity, enabling a more nuanced understanding of aging trajectories.
+* Partner with other organizations to further such research.
 
-* Causal Inference in Observational Studies: Given the ethical and practical limitations of randomized controlled trials in aging research, causal inference from observational data is essential. Techniques such as propensity score matching, inverse probability weighting, instrumental variable analysis, and structural equation modeling are employed to estimate causal effects and control for confounding, thereby strengthening the validity of findings.
+* Partner with other interest groups, and with sections and chapters, of the American Statistical Association, to further such activity.
 
-* Machine Learning and Predictive Analytics: Predictive modeling is increasingly utilized to forecast outcomes such as disease onset, cognitive decline, and mortality. The work group integrates machine learning algorithms—such as random forests, support vector machines, and deep neural networks—with statistical techniques for model validation, including cross-validation, bootstrapping, and ensemble approaches, to enhance prediction accuracy and generalizability across diverse populations.
+* Gather statisticians, data scientists, and other aging researchers to provide a platform for sharing expertise and experiences.
 
-* Neuroimaging and Cognitive Decline: Aging research often includes the analysis of neuroimaging data to detect early biomarkers of neurodegenerative diseases such as Alzheimer's. Statistical approaches such as principal component analysis (PCA), independent component analysis (ICA), and convolutional neural networks (CNNs) are applied to high-dimensional neuroimaging data to uncover patterns associated with cognitive decline, allowing for early diagnosis and intervention.
+* Sponsor educational activities consistent with the interests of the members of the Interest Group.
 
-* Public Health and Policy Evaluation: The statistical work group also contributes to the analysis of large-scale epidemiological data to examine the social determinants of health in aging populations. Techniques such as multilevel modeling and generalized estimating equations (GEE) are employed to evaluate the impact of health policies, aging interventions, and social inequalities on aging outcomes. Moreover, projection models, including microsimulation and dynamic modeling, are utilized to forecast future healthcare needs and inform resource allocation for aging populations.
-By integrating sophisticated statistical methodologies with contemporary data science techniques, the work group in statistics for aging research advances our understanding of aging processes and facilitates the development of interventions and policies aimed at enhancing the health and well-being of older adults.
+* Membership in the Interest Group is open to anyone interested in statistical and data science and their applications in aging research. There are no dues, but the Interest Group accepts contributions.
+
+* The annual business meeting of the Interest Group shall be held in connection with the annual Joint Statistical Meetings and shall be announced in advance.
 
 </p>
-
 
 <h1 style="text-align:center">CHARTER</h1>
 <h1 style="text-align:center">
