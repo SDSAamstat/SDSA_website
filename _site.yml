@@ -3,10 +3,14 @@ output_dir: "."
 navbar:
   title: "Home"
   left:
-     - text: "Meetings"
-       href: schedule.html
-     - text: "About"
+     - text: "Mission & Charter"
+       href: mission.html
+     - text: "Officers"
        href: about.html
+     - text: "Upcoming Events"
+       href: schedule.html
+     - text: "Donations and Sponsors"
+       href: donation.html
      - text: "Join us"
        href: joinus.html
   right:

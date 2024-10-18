@@ -3,24 +3,10 @@
 
 <h1> Join Us </h1>
 
-```{r, echo = FALSE, message = FALSE, warning = FALSE }
-library(tidyverse)
-library(knitr)
-library(kableExtra)
-```
-
 ### Please join us!
 
 * Please fill up the google form for signed up [Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSeZtyuzUcEYSVVVX05RDCRrDaZh_JSpahrXAKbHtkNIaIoLPg/viewform?usp=sf_link)
 
-
-### Donation to SDSA
-
-* [Through ASA](https://secure.qgiv.com/for/amestaass), under "Additional Details" type: "To help offset the costs of SDSA activities".
-
-
-### Our Sponsors and Donations
-<img src="images/sponsors.png" style="width:80%" align="left" hspace="20"> 
 
 
 
