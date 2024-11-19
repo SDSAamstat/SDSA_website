@@ -14,8 +14,9 @@ library(kableExtra)
 ### SDSA Webiners
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
-dt_url <- c(" ",
-            "https://amstat.zoom.us/webinar/register/WN_kde4aEGzRPGw_IYDMlFwCw")
+
+dt_url <- c("https://youtu.be/-jJwOjizPtU",
+            "https://www.youtube.com/watch?v=dw74CQJZ3v0")
 
 tib = tibble(
   `Date` = c(
@@ -34,10 +35,9 @@ tib = tibble(
     "Data Science-Powered Provider Profiling for Equitable Quality Care in Alzheimer's and Dementia",
     "The electronic health record Risk of Alzheimer’s and Dementia Assessment Rule (eRADAR): External validation and embedded pragmatic clinical trial in two real-world healthcare systems"
     ),
-  `Registration` = c(
-    "Link",
-    "Link"
-    
+  `Registration/talk links` = c(
+    "Youtube",
+    "Youtube"
    )
 )
 
@@ -47,11 +47,9 @@ kable(tib[nrow(tib):1,], row.names = FALSE) %>%
   column_spec(2, width = ".5cm") %>%
   column_spec(3, width = "4cm") %>%
   column_spec(4, width = "5cm")%>%
-  column_spec(5, width = ".5cm",link = dt_url)
-
-
-
+  column_spec(5, width = ".5cm",link = dt_url[nrow(tib):1])
 ```
+
 
 
 <h1> In person meetings </h1>

@@ -14,22 +14,37 @@ output:
 
 </p>
 
+
+## 2025 JSM topic-contributed session Proposal
+
+The Statistics and Data Science in Aging (SDSA) Interest Group can sponsor a topic-contributed session at Joint Statistical Meetings (JSM) 2025, which will take place in Nashville TN (Aug 2-7 2025).
+ 
+Topic-contributed session proposals are now open through the following dates:
+
+Proposal Deadline: December 9, 2024
+Decision Due: Early January 2025
+ 
+Please note  JSM participation limitations
+ 
+To submit a topic-contributed session proposal, you will need the following:
+ 
+Session Type (Topic-Contributed Paper or Topic-Contributed Panel) Note: If your session will have individual presentations, please select Topic-Contributed Paper as your session type.
+Sponsor (select the Statistics and Data Science in Aging Interest Group as primary sponsor). A pre-approved list is provided; select no more than three.
+Session Title
+Session Description (4,000 character maximum). Please provide a short description of the session including the following:
+Short description of session, including focus, content, timeliness, and appeal
+List of invited speakers/panelists and tentative title for each presentation
+Format of session (e.g., chair, four speakers, and discussant)
+Session Organizer(s), including affiliation and email address
+Session Chair, including affiliation and email address
+Session Speakers and/or Discussants, including affiliation and email address
+ 
+Paper sessions must have 5 speakers, which includes a minimum of 3 paper presenters and a maximum of 2 discussants. Panel sessions should have 3–6 panelists
+Submitted proposals will be available for editing through December 9, 2024 (11:59 p.m. ET). Only complete submissions will be considered for the program.
+
 ## Upcoming In-person Meeting
 
-#### MSRD Business meeting at GSA (Saturday November 16 2-3:15pm)
-* If you are attending the GSA Annual Meeting in Seattle next month, please attend the MSRD Business Meeting, which will feature a joint SDSA-MSRD panel discussion on grant writing.
- 
-* MSRD Business meeting time/location: Saturday November 16 2-3:15pm, Room Location: 3B
- 
-* Grant Writing Panelists:
-- Dr. Jonathan King (NIA program officer)
-- Dr. Alden Gross, JHU  (NIA R01 MPI/PI awardee, R13 awardee)
-- Dr. Yong-Fang Kuo, UMTB (NIA R01 MPI/PI awardee, P30 core awardee)
-- Dr. Chixiang Chen, U Maryland, Baltimore (NIA R01 awardee, Pepper pilot and ATIP awardee)
-- Dr. Samaneh Farsijani, U Pitt (NIA K01 awardee, R01 applicant)
- 
-- Moderator: Dr. Michelle Shardell, U Maryland Baltimore
-
+TBA
 
 ## SDSA Webiners
 
@@ -37,8 +52,12 @@ output:
 library(tidyverse)
 library(knitr)
 library(kableExtra)
-dt_url <- c(" ",
-            "https://amstat.zoom.us/webinar/register/WN_kde4aEGzRPGw_IYDMlFwCw")
+```
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE }
+
+dt_url <- c("https://youtu.be/-jJwOjizPtU",
+            "https://www.youtube.com/watch?v=dw74CQJZ3v0")
 
 tib = tibble(
   `Date` = c(
@@ -57,10 +76,9 @@ tib = tibble(
     "Data Science-Powered Provider Profiling for Equitable Quality Care in Alzheimer's and Dementia",
     "The electronic health record Risk of Alzheimer’s and Dementia Assessment Rule (eRADAR): External validation and embedded pragmatic clinical trial in two real-world healthcare systems"
     ),
-  `Registration` = c(
-    "Link",
-    "Link"
-    
+  `Registration/talk links` = c(
+    "Youtube",
+    "Youtube"
    )
 )
 
@@ -70,6 +88,6 @@ kable(tib[nrow(tib):1,], row.names = FALSE) %>%
   column_spec(2, width = ".5cm") %>%
   column_spec(3, width = "4cm") %>%
   column_spec(4, width = "5cm")%>%
-  column_spec(5, width = ".5cm",link = dt_url)
+  column_spec(5, width = ".5cm",link = dt_url[nrow(tib):1])
 ```
 
