@@ -2,11 +2,18 @@
 ---
 
 
-### Donation to SDSA
+### Want to become an SDSA sponsor? 
 
-* [Through ASA](https://secure.qgiv.com/for/amestaass), under "Additional Details" type: "To help offset the costs of SDSA activities".
+Visit [GiveASA](https://secure.qgiv.com/for/amestaass)!  Under “Additional Details” type “To offset costs of SDSA activities.”
+
+### SDSA thanks the ASA and SDSA sponsors:
+
+* The University of Maryland Claude D. Pepper Older Americans Independence Center (UM-OAIC)
+
+* The University of Maryland School of Medicine Center for Research on Aging 
+
+* Dr. Theresa Kim and Dr. Nathan Parrish
 
 
-### Our Sponsors 
-<img src="images/sponsors.png" style="width:80%" align="left" hspace="20"> 
+% <img src="images/sponsors.png" style="width:60%" align="left" hspace="20"> 
 
