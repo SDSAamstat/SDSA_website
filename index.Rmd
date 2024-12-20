@@ -6,7 +6,7 @@ output:
     df_print: paged
 ---
 
-<h1 style="background-color:LightSteelBlue;text-align:center">Welcome to the Statistics and Data Science in Aging Workgroup!</h1>
+<h1 style="background-color:LightSteelBlue;text-align:center">Welcome to the Statistics and Data Science in Aging Interest Group!</h1>
 
 <p>
 
