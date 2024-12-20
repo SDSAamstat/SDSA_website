@@ -57,28 +57,34 @@ library(kableExtra)
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
 
 dt_url <- c("https://youtu.be/-jJwOjizPtU",
-            "https://www.youtube.com/watch?v=dw74CQJZ3v0")
+            "https://www.youtube.com/watch?v=dw74CQJZ3v0",
+            "https://amstat.zoom.us/webinar/register/WN_iI2z0_ksSAeCbZFLnnozAQ")
 
 tib = tibble(
   `Date` = c(
     "9/30/2024",
-    "10/29/2024"
+    "10/29/2024",
+    "01/13/2025, "
   ),
     `Time` = c(
     "1-2pm ET/12-1pm CT/11am-12pm MT/10-11am PT",
-    "2-3pm ET/1-2pm CT;12-1pm MT/11am-12pm PT"
+    "2-3pm ET/1-2pm CT;12-1pm MT/11am-12pm PT",
+    "1-2pm ET/12-1pm CT/11am-12pm MT/10-11am PT"
   ),
   `Speaker` = c(
     "Wenbo Wu, PhD, Assistant Professor, Department of Population Health, NYU",
-    "Yates Coley, PhD, Associate Biostatistics Investigator at Kaiser Permanente Washington Health Research Institute and Affiliate Associate Professor in the Department of Biostatistics at the University of Washington"
+    "Yates Coley, PhD, Associate Biostatistics Investigator at Kaiser Permanente Washington Health Research Institute and Affiliate Associate Professor in the Department of Biostatistics at the University of Washington",
+    "Roee Gutman, PhD, Professor, Department of Biostatistics, Brown University"
     ),
   `Title` = c(
     "Data Science-Powered Provider Profiling for Equitable Quality Care in Alzheimer's and Dementia",
-    "The electronic health record Risk of Alzheimer’s and Dementia Assessment Rule (eRADAR): External validation and embedded pragmatic clinical trial in two real-world healthcare systems"
+    "The electronic health record Risk of Alzheimer’s and Dementia Assessment Rule (eRADAR): External validation and embedded pragmatic clinical trial in two real-world healthcare systems",
+    "Novel Bayesian Record Linkage Methods with Application to Medicare Beneficiaries"
     ),
   `Registration/talk links` = c(
     "Youtube",
-    "Youtube"
+    "Youtube",
+    "Registration"
    )
 )
 

@@ -9,11 +9,24 @@ output:
 
 ## Officers:
 
+### 2025- 2026:
+- Chair: Zheyu Wang, Johns Hopkins University [website](https://profiles.hopkinsmedicine.org/provider/zheyu-wang/2777733#profile-expertise) [e-mail](wangzy@jhu.edu)
+- Past Chair: Charles Hall, Albert Einstein College of Medicine [website](https://einsteinmed.edu/faculty/6913/charles-hall) [e-mail](charles.hall@einsteinmed.edu)
+- Program Chair: Jaime Lynn Speiser, Wake Forest University [website](https://sites.google.com/view/jaimespeiser/home) [email](jspeiser@wakehealth.edu)
+- Past Program Chair: Michelle Shardell, University of Maryland [website](https://www.medschool.umaryland.edu/profiles/shardell-michelle/)
+- Treasurer: Hong Li, University of California Davis [website](https://biostat.ucdavis.edu/people/hong-li)
+- Secretary: Xiaoying Yu, University of Texas Medical Branch [website](https://www.utmb.edu/spph/xiaoying-yu-phd) [e-mail](xiyu@utmb.edu)
+- Education Officer: Ana Capuano, Rush University [website](https://www.rushu.rush.edu/faculty/ana-w-capuano-mps-phd) [e-mail](Ana_Capuano@rush.edu)
+- Publications Officer: Theresa Kim, National Institute on Aging [website](https://www.nia.nih.gov/about/staff/kim-theresa)
+- Communications Officer: Seonjoo Lee, Columbia University [website](https://sites.google.com/site/seonjool) [email](sl3670@cumc.columbia.edu)
+
 ### 2024- 2025:
 - Chair: Charles Hall, Albert Einstein College of Medicine [website](https://einsteinmed.edu/faculty/6913/charles-hall) [e-mail](charles.hall@einsteinmed.edu)
+- Chair-elect: Zheyu Wang, Johns Hopkins University [website](https://profiles.hopkinsmedicine.org/provider/zheyu-wang/2777733#profile-expertise) [e-mail](wangzy@jhu.edu)
 - Program Chair: Michelle Shardell, University of Maryland [website](https://www.medschool.umaryland.edu/profiles/shardell-michelle/)
-- Secretary: Xiaoying Yu, University of Texas Medical Branch [website](https://www.utmb.edu/spph/xiaoying-yu-phd) [e-mail](xiyu@utmb.edu)
+- Program Chair-elect: Jaime Lynn Speiser, Wake Forest University [website](https://sites.google.com/view/jaimespeiser/home) [email](jspeiser@wakehealth.edu)
 - Treasurer: Hong Li, University of California Davis [website](https://biostat.ucdavis.edu/people/hong-li)
+- Secretary: Xiaoying Yu, University of Texas Medical Branch [website](https://www.utmb.edu/spph/xiaoying-yu-phd) [e-mail](xiyu@utmb.edu)
 - Education Officer: Ana Capuano, Rush University [website](https://www.rushu.rush.edu/faculty/ana-w-capuano-mps-phd) [e-mail](Ana_Capuano@rush.edu)
 - Publications Officer: Theresa Kim, National Institute on Aging [website](https://www.nia.nih.gov/about/staff/kim-theresa)
 - Communications Officer: Seonjoo Lee, Columbia University [website](https://sites.google.com/site/seonjool) [email](sl3670@cumc.columbia.edu)
