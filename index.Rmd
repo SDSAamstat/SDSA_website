@@ -14,23 +14,30 @@ output:
 
 </p>
 
+<br>
+
 ### In person meeting at ENAR (Monday 3/24/2025)
 
-The Statistics and Data Science in Aging Interest Group will be at the International Biometric Society Eastern North American Region (ENAR) Meeting in New Orleans, March 23-26! We will have an information table and we will also be having a meetup on Monday night. 
- 
-Anyone attending who would like to take a shift please send me an email at charles.hall@einsteinmed.edu with "SDSA ENAR" in the subject heading.
- 
+We will have an information table and we will also be having a meetup on Monday night.
+
 Our meetup will be Monday night and will be a walk to the legendary Cafe Du Monde,  a short walk from the conference hotel:
 [Cafe Du Monde New Orleans](
-https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fshop.cafedumonde.com%2F&data=05%7C02%7Csl3670%40cumc.columbia.edu%7Ca22ee9b0e91c418e200508dd68791c03%7Cb0002a9b0017404d97dc3d3bab09be81%7C0%7C0%7C638781591563925228%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gBByKbyc5Ptp7%2Fg6runaN0YGjtyPqgRj93SaZj%2BaHAI%3D&reserved=0)
+https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fshop.cafedumonde.com%2F&data=05%7C02%7Csl3670%40cumc.columbia.edu%7Ca22ee9b0e91c418e200508dd68791c03%7Cb0002a9b0017404d97dc3d3bab09be81%7C0%7C0%7C638781591563925228%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gBByKbyc5Ptp7%2Fg6runaN0YGjtyPqgRj93SaZj%2BaHAI%3D&reserved=0).
 
 The meeting is tentatively scheduling it for 830pm so that we can eat dinner beforehand, as Cafe Du Monde is not really a restaurant, but a coffee stand with beignets. Please RSVP to my email charles.hall@einsteinmed.edu again with "SDSA ENAR" in the subject field if you are planning to join us. 
- 
-Looking forward to seeing many of you there!
- 
 
 
-### Upcoming Webiners
+<details>
+  <summary>Details...</summary>
+  <p>The Statistics and Data Science in Aging Interest Group will be at the International Biometric Society Eastern North American Region (ENAR) Meeting in New Orleans, March 23-26! We will have an information table and we will also be having a meetup on Monday night. Anyone attending who would like to take a shift please send me an email at charles.hall@einsteinmed.edu with "SDSA ENAR" in the subject heading. Our meetup will be Monday night and will be a walk to the legendary Cafe Du Monde,  a short walk from the conference hotel:
+[Cafe Du Monde New Orleans](
+https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fshop.cafedumonde.com%2F&data=05%7C02%7Csl3670%40cumc.columbia.edu%7Ca22ee9b0e91c418e200508dd68791c03%7Cb0002a9b0017404d97dc3d3bab09be81%7C0%7C0%7C638781591563925228%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gBByKbyc5Ptp7%2Fg6runaN0YGjtyPqgRj93SaZj%2BaHAI%3D&reserved=0). The meeting is tentatively scheduling it for 830pm so that we can eat dinner beforehand, as Cafe Du Monde is not really a restaurant, but a coffee stand with beignets. Please RSVP to my email charles.hall@einsteinmed.edu again with "SDSA ENAR" in the subject field if you are planning to join us. Looking forward to seeing many of you there!</p>
+</details>
+
+<br>
+
+
+### Upcoming Webiners (Wednesday 3/26/2025)
 
 * Speakers: Carly Bobak, MS, PhD, Lecturer in Biomedical Data Science, Department of Biomedical Data Science, Dartmouth Geisel School of Medicine; James O’Malley, MS, PhD, Professor, Department of Biomedical Data Science and Dartmouth Institute, Dartmouth Geisel School of Medicine
  
@@ -41,13 +48,20 @@ Looking forward to seeing many of you there!
 * Where: Zoom; Register here -
 https://amstat.zoom.us/webinar/register/WN_NKJJnVQxQ062hMd7jILBWQ
  
+<details>
+  <summary>Details...</summary>
+  
 * Abstract: Stepped wedge cluster-randomized trials (SW-CRTs) are increasingly used to evaluate interventions in healthcare settings, yet contamination due to physician collaboration remains an overlooked challenge. This study examines spillover effects in an SW-CRT assessing a video game intervention aimed at increasing Advance Care Planning (ACP) billing among hospitalists, which previously found no direct impact of the intervention (OR: 0.96, 95% CI: 0.88-1.06, p=0.42). Here, we introduce a method leveraging physician social networks constructed from shared-patient encounters to quantify intervention diffusion beyond directly treated individuals. While the intervention itself showed a borderline significant effect on ACP billing (OR 1.175, 95% CI: 0.999–1.383, p = 0.052), network-based spillover effects were substantial (OR 2.794, 95% CI: 2.484–3.142, p < 0.001), demonstrating that non-intervened physicians were strongly influenced by their treated peers. Moreover, as spillover increased, the direct intervention effect diminished (OR 0.889, 95% CI: 0.799–0.999, p = 0.032), suggesting an interplay between direct and indirect effects. These findings highlight the critical need to account for physician collaboration when designing and analyzing SW-CRTs to avoid underestimating intervention effects and to better understand the mechanisms driving behavior change in clinical practice.
  
 * Speaker bios: Carly Bobak, PhD biomedical data scientist specializing in statistical modeling, network analysis, and machine learning applications in health research. She is a researcher with Dartmouth College’s Research Computing and the Department of Biomedical Data Science, where she collaborates with clinicians, epidemiologists, and public health experts to develop computational approaches for complex healthcare challenges. Her research focuses on leveraging advanced statistical and network-based methods to improve the design and analysis of clinical trials, particularly in settings where social and professional networks influence intervention outcomes. She is also an advocate for biological network analyses, particularly as they apply to infectious disease and aging research. By integrating computational tools with domain expertise, Dr. Bobak aims to develop more rigorous, network-aware methodologies for evaluating healthcare interventions and biological systems.
  
 James O’Malley, PhD holds the Peggy Y. Thomson Professorship in the Evaluative Clinical Sciences in The Dartmouth Institute of Health Policy and Clinical Practice, is a Professor in The Department of Biomedical Data Science at the Geisel School of Medicine at Dartmouth and an Adjunct Professor in the Department of Computer Science at Dartmouth College. His methodological interests in statistics span social network analysis, multivariate hierarchical models, causal inference using instrumental variables and Bayesian inference. He also collaborates extensively with researchers in health policy, heath services, public and population health, and related areas. He chaired the Health Policy Statistics Section (HPSS) of the American Statistical Association (ASA) in 2008 and co-chaired its International Conference in 2011. In 2011 he received the HPSS Mid-career Excellence award, in 2012 became an elected fellow of the ASA, and in 2019 received the International Society of Pharmacoeconomics and Outcomes Research (ISPOR) Health Economics and Outcomes Research Excellence in Methodology Award Methodological award for scientific excellence.
   
-### SDSA Webiners
+</details>
+
+<br>
+
+### SDSA Webiners 
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
 library(tidyverse)
