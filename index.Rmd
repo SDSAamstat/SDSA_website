@@ -10,7 +10,7 @@ output:
 
 <p>
 
-<img src="images/SDSAlogo2.webp" style="width:35%" align="left" hspace="20"> 
+<img src="images/SDSAlogo2.webp" style="width:35%" align="right" hspace="20"> 
 
 </p>
 
@@ -24,7 +24,20 @@ output:
     scrolling="auto"/>
 </details>
 
+<br>
 
+
+### ARISE: Aging Research – Innovations in Statistical Exploration
+
+Are you a promising student developing innovative data science methods with applications in aging research? Or a young scientist with a cutting-edge dissertation or competition-winning project? Submit your work for a chance to present in our inaugural webinar series!
+
+<p> [Register here](https://forms.gle/EUrtnrFyNiuoj2Mf7)</p>
+
+<details>
+  <summary>Details...</summary>
+<embed src="files/SDSA ARISE.pdf#toolbar=0" width="600px" height="800px"
+    scrolling="auto"/>
+</details>
 <br>
 
 ### In person meeting at ENAR (Monday 3/24/2025)
@@ -46,7 +59,6 @@ https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fshop.cafedumon
 </details>
 
 <br>
-
 
 ### Upcoming Webiners (Wednesday 3/26/2025)
 
