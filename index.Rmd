@@ -14,6 +14,17 @@ output:
 
 </p>
 
+### Join the SDSA
+
+<p> Click [here](https://form.jotform.com/zzlalo/friends-of-sdsa) to join SDSA! (Welcome to our new members 😊!)</p>
+
+<details>
+  <summary>Details...</summary>
+<embed src="files/SDSA flyer v2.pdf#toolbar=0" width="600px" height="800px"
+    scrolling="auto"/>
+</details>
+
+
 <br>
 
 ### In person meeting at ENAR (Monday 3/24/2025)
