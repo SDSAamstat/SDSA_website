@@ -6,13 +6,29 @@ output:
     df_print: paged
 ---
 
-<h1 style="background-color:LightSteelBlue;text-align:center">Welcome to the Statistics and Data Science in Aging Interest Group!</h1>
+<h1 style="background-color:lightblue;text-align:center">Welcome to the Statistics and Data Science in Aging Interest Group!</h1>
 
 <p>
 
 <img src="images/SDSAlogo2.webp" style="width:35%" align="left" hspace="20"> 
 
 </p>
+
+### In person meeting at ENAR (Monday 3/24/2025)
+
+The Statistics and Data Science in Aging Interest Group will be at the International Biometric Society Eastern North American Region (ENAR) Meeting in New Orleans, March 23-26! We will have an information table and we will also be having a meetup on Monday night. 
+ 
+Anyone attending who would like to take a shift please send me an email at charles.hall@einsteinmed.edu with "SDSA ENAR" in the subject heading.
+ 
+Our meetup will be Monday night and will be a walk to the legendary Cafe Du Monde,  a short walk from the conference hotel:
+[Cafe Du Monde New Orleans](
+https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fshop.cafedumonde.com%2F&data=05%7C02%7Csl3670%40cumc.columbia.edu%7Ca22ee9b0e91c418e200508dd68791c03%7Cb0002a9b0017404d97dc3d3bab09be81%7C0%7C0%7C638781591563925228%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gBByKbyc5Ptp7%2Fg6runaN0YGjtyPqgRj93SaZj%2BaHAI%3D&reserved=0)
+
+The meeting is tentatively scheduling it for 830pm so that we can eat dinner beforehand, as Cafe Du Monde is not really a restaurant, but a coffee stand with beignets. Please RSVP to my email charles.hall@einsteinmed.edu again with "SDSA ENAR" in the subject field if you are planning to join us. 
+ 
+Looking forward to seeing many of you there!
+ 
+
 
 ### Upcoming Webiners
 

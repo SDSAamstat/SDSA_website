@@ -2,11 +2,14 @@
 ---
 
 <h1> Join Us </h1>
-
 ### Please join us!
 
 * Click [here](https://form.jotform.com/zzlalo/friends-of-sdsa) to join SDSA! (Welcome to our new members 😊!)
 
+
+
+<embed src="files/SDSA flyer v2.pdf#toolbar=0" width="600px" height="800px"
+    scrolling="auto"/>
 
 
 
