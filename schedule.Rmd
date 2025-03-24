@@ -17,32 +17,44 @@ library(kableExtra)
 
 dt_url <- c("https://youtu.be/-jJwOjizPtU",
             "https://www.youtube.com/watch?v=dw74CQJZ3v0",
-            "https://amstat.zoom.us/webinar/register/WN_iI2z0_ksSAeCbZFLnnozAQ")
+            "https://amstat.zoom.us/webinar/register/WN_iI2z0_ksSAeCbZFLnnozAQ",
+            "https://amstat.zoom.us/webinar/register/WN_h4UZVD1jQsS7YV9nbL-bzw",
+            "https://amstat.zoom.us/webinar/register/WN_NKJJnVQxQ062hMd7jILBWQ")
 
 tib = tibble(
   `Date` = c(
     "9/30/2024",
     "10/29/2024",
-    "01/13/2025"
+    "01/13/2025",
+    "02/27/2025",
+    "03/26/2025" 
   ),
     `Time` = c(
     "1-2pm ET/12-1pm CT/11am-12pm MT/10-11am PT",
     "2-3pm ET/1-2pm CT;12-1pm MT/11am-12pm PT",
-    "1-2pm ET/12-1pm CT/11am-12pm MT/10-11am PT"
+    "1-2pm ET/12-1pm CT/11am-12pm MT/10-11am PT",
+    "1-2pm ET/12-1pm CT/11am-12pm MT/10am-11am PT",
+    "1-2pm ET/12-1pm CT/11am-12pm MT/10am-11am PT"
   ),
   `Speaker` = c(
     "Wenbo Wu, PhD, Assistant Professor, Department of Population Health, NYU",
     "Yates Coley, PhD, Associate Biostatistics Investigator at Kaiser Permanente Washington Health Research Institute and Affiliate Associate Professor in the Department of Biostatistics at the University of Washington",
-    "Roee Gutman, PhD, Professor, Department of Biostatistics, Brown University"
+    "Roee Gutman, PhD, Professor, Department of Biostatistics, Brown University",
+    "Heather Shappell, PhD, Assistant Professor, Department of Biostatistics and Data Science, Wake Forest University School of Medicine",
+    "Carly Bobak, MS, PhD, Lecturer in Biomedical Data Science, Department of Biomedical Data Science, Dartmouth Geisel School of Medicine; James O’Malley, MS, PhD, Professor, Department of Biomedical Data Science and Dartmouth Institute, Dartmouth Geisel School of Medicine"
     ),
   `Title` = c(
     "Data Science-Powered Provider Profiling for Equitable Quality Care in Alzheimer's and Dementia",
     "The electronic health record Risk of Alzheimer’s and Dementia Assessment Rule (eRADAR): External validation and embedded pragmatic clinical trial in two real-world healthcare systems",
-    "Novel Bayesian Record Linkage Methods with Application to Medicare Beneficiaries"
+    "Novel Bayesian Record Linkage Methods with Application to Medicare Beneficiaries",
+    "Dynamic Brain Networks in Obesity and Weight Loss in Older Adults",
+    "Gaming the System: Evaluating Spillover in a Video Game Intervention for Advanced Care Planning using Physician Social Networks"
     ),
   `Registration/talk links` = c(
     "Youtube",
     "Youtube",
+    "Registration",
+    "Registration",
     "Registration"
    )
 )
@@ -59,6 +71,22 @@ kable(tib[nrow(tib):1,], row.names = FALSE) %>%
 
 
 <h1> In person meetings </h1>
+
+#### ENAR Meeting (Saturday November 16 2-3:15pm)
+* If you are attending the GSA Annual Meeting in Seattle next month, please attend the MSRD Business Meeting, which will feature a joint SDSA-MSRD panel discussion on grant writing.
+ 
+* MSRD Business meeting time/location: Saturday November 16 2-3:15pm, Room Location: 3B
+ 
+* Grant Writing Panelists:
+- Dr. Jonathan King (NIA program officer)
+- Dr. Alden Gross, JHU  (NIA R01 MPI/PI awardee, R13 awardee)
+- Dr. Yong-Fang Kuo, UMTB (NIA R01 MPI/PI awardee, P30 core awardee)
+- Dr. Chixiang Chen, U Maryland, Baltimore (NIA R01 awardee, Pepper pilot and ATIP awardee)
+- Dr. Samaneh Farsijani, U Pitt (NIA K01 awardee, R01 applicant)
+ 
+- Moderator: Dr. Michelle Shardell, U Maryland Baltimore
+
+
 
 #### MSRD Business meeting at GSA (Saturday November 16 2-3:15pm)
 * If you are attending the GSA Annual Meeting in Seattle next month, please attend the MSRD Business Meeting, which will feature a joint SDSA-MSRD panel discussion on grant writing.
