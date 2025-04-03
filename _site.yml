@@ -13,6 +13,8 @@ navbar:
        href: donation.html
      - text: "Join us"
        href: joinus.html
+     - text: "Discussions"
+       href: discussion.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<sl3670@cumc.columbia.edu>

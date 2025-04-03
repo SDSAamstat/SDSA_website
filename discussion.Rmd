@@ -1,0 +1,13 @@
+---
+---
+
+<h1> Discussions </h1>
+
+
+<p style="font-size:1.5vw;font-family:Verdana"> Please email sdsa.amstat@gmail.com for any announcement;</p>
+
+or
+
+<a style="font-size:1.5vw;font-family:Verdana" href="https://github.com/SDSAamstat/SDSA_website/issues" target="_blank">
+  SDSA Discussion Board (github login required)
+</a>
