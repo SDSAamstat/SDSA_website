@@ -17,7 +17,7 @@ navbar:
        href: discussion.html
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:<sl3670@cumc.columbia.edu>
+      href: mailto:<sdsa.amstat@gmail.com>
     - icon: fa-github fa-lg
       href: https://github.com/columbia-computing-club
 output:
@@ -26,4 +26,5 @@ output:
         after_body: footer.html
     theme: cerulean
     css: styles.css
+    highlight: espresso
 google_analytics: "UA-124182553-2"
