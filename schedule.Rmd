@@ -1,7 +1,7 @@
 ---
 ---
 
-<h1> Webiners </h1>
+<h1> Webinars </h1>
 
 ## Fall 2024
 
@@ -11,14 +11,14 @@ library(knitr)
 library(kableExtra)
 ```
 
-### SDSA Webiners
+### SDSA Webinars
 
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
 
 dt_url <- c("https://youtu.be/-jJwOjizPtU",
             "https://www.youtube.com/watch?v=dw74CQJZ3v0",
-            "https://amstat.zoom.us/webinar/register/WN_iI2z0_ksSAeCbZFLnnozAQ",
+            "https://www.youtube.com/watch?v=rWAeVmjyorQ",
             "https://amstat.zoom.us/webinar/register/WN_h4UZVD1jQsS7YV9nbL-bzw",
             "https://amstat.zoom.us/webinar/register/WN_NKJJnVQxQ062hMd7jILBWQ",
             "https://amstat.zoom.us/webinar/register/WN_wtnGkZKjRvuruy_17PzvmA")
