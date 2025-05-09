@@ -59,7 +59,7 @@ tib = tibble(
   `Registration/talk links` = c(
     "Youtube",
     "Youtube",
-    "Registration",
+    "Youtube",
     "Registration",
     "Registration",
     "Registration"
