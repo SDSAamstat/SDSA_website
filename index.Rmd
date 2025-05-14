@@ -75,7 +75,7 @@ dt_url <- c("https://youtu.be/-jJwOjizPtU",
             "https://www.youtube.com/watch?v=rWAeVmjyorQ",
             "https://amstat.zoom.us/webinar/register/WN_h4UZVD1jQsS7YV9nbL-bzw",
             "https://amstat.zoom.us/webinar/register/WN_NKJJnVQxQ062hMd7jILBWQ",
-            "https://amstat.zoom.us/webinar/register/WN_wtnGkZKjRvuruy_17PzvmA")
+            "files/boscardin050825slides.pdf")
 
 tib = tibble(
   `Date` = c(
@@ -116,7 +116,7 @@ tib = tibble(
     "Youtube",
     "Registration",
     "Registration",
-    "Registration"
+    "ppt"
    )
 )
 
