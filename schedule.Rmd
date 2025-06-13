@@ -79,14 +79,34 @@ kable(tib[nrow(tib):1,], row.names = FALSE) %>%
 
 <h1> In person meetings </h1>
 
-#### In person meeting at AAIC ( 7/27/2025-7/31/2025 )
+
+#### JSM Mixer (MHSS, HPSS and SDSA) (8/2/25-8/7/25)
+
+* Venue: TBA (Contact to the program chair)
+* Time and Date: 6:00pm, 8/4/2025 (Monday)
+
+<br>
+
+#### AAIC at Toronto ( 7/27/25-7/31/25 )
 TBA
 
-#### In person meeting at LiDS (5/28/2025-5/30/2025)
-TBA
+<br>
 
+#### In person meeting at LiDS (5/28/25-5/30/25)
 
-#### In person meeting at ENAR (Monday 3/24/2025)
+<details>
+  <summary> Conference Booth at LiDS </summary>
+  Thank you, Charlie!
+</details>
+
+<br>  
+  
+<figure>
+<img src="images/LDSC_2025_May.jpeg" style="width:40%" align="center" hspace="20"> 
+</figure>
+<br> 
+
+#### ENAR 2025 (Monday 3/24/25)
 
 Conference Booth & Meetup at ENAR (the legendary Cafe Du Monde)
 
