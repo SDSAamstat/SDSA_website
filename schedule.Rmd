@@ -15,13 +15,12 @@ library(kableExtra)
 
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
-
 dt_url <- c("https://youtu.be/-jJwOjizPtU",
             "https://www.youtube.com/watch?v=dw74CQJZ3v0",
             "https://www.youtube.com/watch?v=rWAeVmjyorQ",
-            "https://amstat.zoom.us/webinar/register/WN_h4UZVD1jQsS7YV9nbL-bzw",
-            "https://amstat.zoom.us/webinar/register/WN_NKJJnVQxQ062hMd7jILBWQ",
-            "files/boscardin050825slides.pdf")
+            "https://youtu.be/N578BcxJ0yM",
+            "https://youtu.be/xoRSS12b0mU",
+            "https://youtu.be/XroGLWF0EzI")
 
 tib = tibble(
   `Date` = c(
@@ -60,9 +59,9 @@ tib = tibble(
     "Youtube",
     "Youtube",
     "Youtube",
-    "Registration",
-    "Registration",
-    "ppt"
+    "Youtube",
+    "Youtube",
+    "Youtube"
    )
 )
 
