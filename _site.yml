@@ -7,8 +7,10 @@ navbar:
        href: mission.html
      - text: "Officers"
        href: about.html
-     - text: "Upcoming Events"
+     - text: "Webinars"
        href: schedule.html
+     - text: "Past Meetings"
+       href: PastMeeting.html
      - text: "Donations and Sponsors"
        href: donation.html
      - text: "Join us"

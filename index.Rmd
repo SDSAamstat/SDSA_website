@@ -27,49 +27,16 @@ output:
 <br>
 
 
-### AAIC Lunch at Toronto (7/27/25-7/31/25)
+### ARISE – Fall 2025 Webinar Series
 
-* Time and Date: 7/29/25 (Tuesday), 12:15 pm
-* Venue: [Kelly's landing](https://www.thelandinggroup.ca/en/menu/kellys/food.html) (Contact to Ana Capuano or Seonjoo Lee)
-* Please RSVP [link](https://docs.google.com/forms/d/e/1FAIpQLSc-OaEkd60FSOkyN2KrBQuIwJXqY0muNiIyLDUFzLzUUHLucA/viewform?usp=header)
-
-### JSM Mixer (8/2/25-8/7/25)
-
-* Joint meeting with  MHSS, HPSS and SDSA
-* Time and Date: 6:00pm, 8/4/2025 (Monday)
-* Venue: TBA (Contact to the program chair)
-
-### ARISE: Aging Research – Innovations in Statistical Exploration
-
-Are you a promising student developing innovative data science methods with applications in aging research? Or a young scientist with a cutting-edge dissertation or competition-winning project? Submit your work for a chance to present in our inaugural webinar series! This inaugural program was created to support early career scientists by providing a platform to showcase their work and gain recognition within the field.
-
-Key details:
-
-* Who can apply: Early career researchers with projects, dissertations, or developments in data science (biostatistics, bioinformatics, computational biology, and others) applied to aging (or demonstrating a possible application to aging)
-
-* Registration deadline: June 30, 2025
-
-* Announcement of results: July 2025
-
-* Webinar series: August–December 2025
-
-* Awards: Gold, silver, and bronze medals for the top three projects; all selected presenters will receive a finalist certificate
-
-* Cost: FREE to participate
-
-* ASA membership: Not required
-
-<p> [Register here](https://forms.gle/EUrtnrFyNiuoj2Mf7)</p>
+* ARISE: Aging Research – Innovations in Statistical Exploration
 
 <details>
-  <summary>Details...</summary>
-<embed src="files/SDSA ARISE.pdf#toolbar=0" width="600px" height="800px"
+  <summary>Detailed information for titles and speakers</summary>
+<embed src="files/ARISE - Schedule Fall 2025.pdf#toolbar=0" width="600px" height="800px"
     scrolling="auto"/>
 </details>
 <br>
-
-
-### SDSA Webinars 
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
 library(tidyverse)
@@ -78,63 +45,45 @@ library(kableExtra)
 ```
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
-
-dt_url <- c("https://youtu.be/-jJwOjizPtU",
-            "https://www.youtube.com/watch?v=dw74CQJZ3v0",
-            "https://www.youtube.com/watch?v=rWAeVmjyorQ",
-            "https://youtu.be/N578BcxJ0yM",
-            "https://youtu.be/xoRSS12b0mU",
-            "https://youtu.be/XroGLWF0EzI")
+dt_url <- c("https://amstat.zoom.us/j/84186505606?pwd=pMZ4DV1KkIbK3Jd0G6EnBUsAFebtiD.1",
+            "https://amstat.zoom.us/j/84186505606?pwd=pMZ4DV1KkIbK3Jd0G6EnBUsAFebtiD.1",
+            "https://amstat.zoom.us/j/84186505606?pwd=pMZ4DV1KkIbK3Jd0G6EnBUsAFebtiD.1",
+            "https://amstat.zoom.us/j/84186505606?pwd=pMZ4DV1KkIbK3Jd0G6EnBUsAFebtiD.1")
 
 tib = tibble(
   `Date` = c(
-    "9/30/2024",
-    "10/29/2024",
-    "01/13/2025",
-    "02/27/2025",
-    "03/26/2025",
-    "05/08/2025"
+    "8/27/2025",
+    "9/8/2025",
+    "10/29/2025",
+    "11/3/2025"
   ),
     `Time` = c(
     "1-2pm ET/12-1pm CT/11am-12pm MT/10-11am PT",
-    "2-3pm ET/1-2pm CT;12-1pm MT/11am-12pm PT",
+    "12-1pm ET/11am-12pm CT;10-11am MT/9-10am PT",
     "1-2pm ET/12-1pm CT/11am-12pm MT/10-11am PT",
-    "1-2pm ET/12-1pm CT/11am-12pm MT/10am-11am PT",
-    "1-2pm ET/12-1pm CT/11am-12pm MT/10am-11am PT",
-    "1-2pm ET/12-1pm CT/11am-12pm MT/10am-11am PT"
+    "12-1pm ET/11am-12pm CT;10-11am MT/9-10am PT"
   ),
   `Speaker` = c(
-    "Wenbo Wu, PhD, NYU",
-    "Yates Coley, PhD, Kaiser Permanente Washington Health Research Institute & the University of Washington",
-    "Roee Gutman, PhD, Professor, Department of Biostatistics, Brown University",
-    "Heather Shappell, PhD, Wake Forest University School of Medicine",
-    "Carly Bobak, MS, PhD & James O’Malley, MS, PhD, Dartmouth Geisel School of Medicine",
-    "John Boscardin, PhD, Departments of Medicine and Epidemiology & Biostatistics, University of California, San Francisco"
-    ),
-  `Title` = c(
-    "Data Science-Powered Provider Profiling for Equitable Quality Care in Alzheimer's and Dementia",
-    "The electronic health record Risk of Alzheimer’s and Dementia Assessment Rule (eRADAR): External validation and embedded pragmatic clinical trial in two real-world healthcare systems",
-    "Novel Bayesian Record Linkage Methods with Application to Medicare Beneficiaries",
-    "Dynamic Brain Networks in Obesity and Weight Loss in Older Adults",
-    "Gaming the System: Evaluating Spillover in a Video Game Intervention for Advanced Care Planning using Physician Social Networks",
-    "Building better prognostic models: balancing accuracy, interpretability, and usability in the care of older adults"
-    ),
+    "Tianying Wang, PhD; Owen Li, PhD Student; Molly Ehrig, MS",
+    "Pulkit Khandelwal, PhD; Boyi Hu, PhD Candidate; Julia Gallini, PhD Candidate",
+    "Xuexin Yu, PhD; Margaret Gacheru, PhD; Matthew R. Scott, PhD Candidate",
+    "Jiachen Chen, PhD Candidate; Alessandra Pescina, MS; Deependra Kaji Thapa, PhD"
+     ),
+#  `Title` = c("","","",""
+#     ),
   `Registration/talk links` = c(
-    "Youtube",
-    "Youtube",
-    "Youtube",
-    "Youtube",
-    "Youtube",
-    "Youtube"
+    "Zoom",
+    "Zoom",
+    "Zoom",
+    "Zoom"
    )
 )
 
-kable(tib[nrow(tib):1,], row.names = FALSE) %>%
+kable(tib, row.names = FALSE) %>%
   kable_styling(bootstrap_options = "striped",font_size = 15, repeat_header_method = "replace") %>%
   column_spec(1, width = ".5cm") %>%
   column_spec(2, width = "2cm") %>%
   column_spec(3, width = "4cm") %>%
-  column_spec(4, width = "5cm")%>%
-  column_spec(5, width = ".5cm",link = dt_url[nrow(tib):1])
+#  column_spec(4, width = "5cm")%>%
+  column_spec(4, width = ".5cm",link = dt_url[nrow(tib):1])
 ```
-
