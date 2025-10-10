@@ -27,6 +27,49 @@ output:
 <br>
 
 
+### Fall 2025 - Spring 2026 SDSA Webinars
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE }
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE }
+dt_url <- c(
+  "https://amstat.zoom.us/webinar/register/WN_-QrTGG2tS7yKXREkiJn6-Q"
+            )
+
+tib = tibble(
+  `Date` = c(
+    "10/23/2025"
+  ),
+    `Time` = c(
+    "noon-1pm ET/11am-noon CT/10-11am MT/9-10am PT"  ),
+  `Speaker` = c(
+    "Liam Messin, Deputy Editor for Nature Medicine & Sebastien Thuault Chief Editor of Nature Aging"
+  ),
+  `Title` = c(
+    "Aging research at Nature Aging and Nature Medicine"
+    
+  ),
+  `Registration/talk links` = c(
+    "Registration"
+    )
+)
+
+kable(tib[nrow(tib):1,], row.names = FALSE) %>%
+  kable_styling(bootstrap_options = "striped",font_size = 15, repeat_header_method = "replace") %>%
+  column_spec(1, width = ".5cm") %>%
+  column_spec(2, width = "2cm") %>%
+  column_spec(3, width = "4cm") %>%
+  column_spec(4, width = "5cm")%>%
+  column_spec(5, width = ".5cm",link = dt_url[nrow(tib):1])
+```
+
+
+
 ### ARISE – Fall 2025 Webinar Series
 
 * ARISE: Aging Research – Innovations in Statistical Exploration
@@ -38,11 +81,6 @@ output:
 </details>
 <br>
 
-```{r, echo = FALSE, message = FALSE, warning = FALSE }
-library(tidyverse)
-library(knitr)
-library(kableExtra)
-```
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
 dt_url <- c("https://amstat.zoom.us/j/84186505606?pwd=pMZ4DV1KkIbK3Jd0G6EnBUsAFebtiD.1",
