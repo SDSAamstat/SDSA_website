@@ -20,30 +20,36 @@ library(kableExtra)
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
 dt_url <- c(
-  "https://amstat.zoom.us/webinar/register/WN_jYW2t5DBQW6amFZlsJZOng#/registration",
-  "https://amstat.zoom.us/webinar/register/WN_-QrTGG2tS7yKXREkiJn6-Q"
+  "https://youtu.be/5haNC1nBoDs",
+  "https://amstat.zoom.us/webinar/register/WN_-QrTGG2tS7yKXREkiJn6-Q",
+  "https://youtu.be/HAsSrpZX_Xc"
             )
+
 
 tib = tibble(
   `Date` = c(
     "9/25/2025",
-    "10/23/2025"
+    "10/23/2025",
+    "11/19/2025"
   ),
     `Time` = c(
     "4-5pm ET/3-4pm CT/2-3pm MT/1-2pm PT",
-    "noon-1pm ET/11am-noon CT/10-11am MT/9-10am PT"  ),
+    "noon-1pm ET/11am-noon CT/10-11am MT/9-10am PT",
+    "noon-1pm ET/11am-noon CT/10-11am MT/9-10am PT"),
   `Speaker` = c(
     "Paola Sebastiani, PhD, Professor of Medicine, Tufts University School of Medicine",
-    "Liam Messin, Deputy Editor for Nature Medicine & Sebastien Thuault Chief Editor of Nature Aging"
+    "Liam Messin, Deputy Editor for Nature Medicine & Sebastien Thuault Chief Editor of Nature Aging",
+    "Lihua Li, PhD, MS, Associate Professor at Icahn School of Medicine at Mount Sinai"
   ),
   `Title` = c(
     "Metabolite Signatures of Chronological Age, Aging, Survival and Longevity",
-    "Aging research at Nature Aging and Nature Medicine"
-    
+    "Aging research at Nature Aging and Nature Medicine",
+    "Integrating propensity score weighting methods and population-based surveys for cancer and aging research"
   ),
   `Registration/talk links` = c(
-     "Registration",
-    "Registration"
+     "YouTube",
+    "Registration",
+    "YouTube"
     )
 )
 

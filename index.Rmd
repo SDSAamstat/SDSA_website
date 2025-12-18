@@ -26,10 +26,14 @@ output:
 
 <br>
 
+### ENAR 2026 (Indianapolis, IN, USA)
+TBA
 
-### GSA Meeting (November 13, 2025 at 3-4:15pm)
+### IBS 2026 (Seoul, South Korea) 
+TBA
 
-* check out the joint Epidemiology of Aging and Measurement, Statistics, and Research Design business meeting. A debate about the “biggest baddest bias” in aging research will take place November 13 at 3-4:15pm in Convention Center rm 101. 
+### JSM 2026 (Boston, MA, USA)
+TBA
 
 ### Fall 2025 - Spring 2026 SDSA Webinars
 
@@ -42,9 +46,9 @@ library(kableExtra)
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE }
 dt_url <- c(
-  "https://amstat.zoom.us/webinar/register/WN_jYW2t5DBQW6amFZlsJZOng#/registration",
+  "https://youtu.be/5haNC1nBoDs",
   "https://amstat.zoom.us/webinar/register/WN_-QrTGG2tS7yKXREkiJn6-Q",
-  "https://amstat.zoom.us/webinar/register/WN_n2yz4fjEQby0-WmzzNAk9g"
+  "https://youtu.be/HAsSrpZX_Xc"
             )
 
 tib = tibble(
@@ -68,9 +72,9 @@ tib = tibble(
     "Integrating propensity score weighting methods and population-based surveys for cancer and aging research"
   ),
   `Registration/talk links` = c(
-     "Registration",
+     "YouTube",
     "Registration",
-    "Registration"
+    "YouTube"
     )
 )
 

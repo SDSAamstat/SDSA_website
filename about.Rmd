@@ -9,6 +9,22 @@ output:
 
 ## Officers:
 
+### 2026- 2027:
+
+- Chair: Zheyu Wang, Johns Hopkins University [website](https://profiles.hopkinsmedicine.org/provider/zheyu-wang/2777733#profile-expertise) [e-mail](wangzy@jhu.edu)
+- Chair-Elect: Mary Kwasny, Northwestern University [website]() [email]()
+- Past Chair: Charles Hall, Albert Einstein College of Medicine [website](https://einsteinmed.edu/faculty/6913/charles-hall) [e-mail](charles.hall@einsteinmed.edu)
+- Program Chair: Jaime Lynn Speiser, Wake Forest University [website](https://sites.google.com/view/jaimespeiser/home) [email](jspeiser@wakehealth.edu)
+- Program Chair-Elect: Panpan Zhang, Department of Biostatistics, Vanderbilt University [website](https://panpan-zhang.com/) [email](panpan.zhang@vumc.org )
+- Past Program Chair: Michelle Shardell, University of Maryland [website](https://www.medschool.umaryland.edu/profiles/shardell-michelle/)
+- Treasurer: Hong Li, University of California Davis [website](https://biostat.ucdavis.edu/people/hong-li)
+- Secretary: Xiaoying Yu, University of Texas Medical Branch [website](https://www.utmb.edu/spph/xiaoying-yu-phd) [e-mail](xiyu@utmb.edu)
+- Education Officer: Ana Capuano, Rush University [website](https://www.rushu.rush.edu/faculty/ana-w-capuano-mps-phd) [e-mail](Ana_Capuano@rush.edu)
+- Publication Officer: Lihua Li, Icahn School of Medicine at Mount Sinai [website](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fprofiles.mountsinai.org%2Flihua-li&data=05%7C02%7CSeonjoo.Lee%40nyspi.columbia.edu%7Caf8bd40bbf7b4badb34f08de342e85ae%7Cf46cb8ea79004d108ceb80e8c1c81ee7%7C0%7C0%7C639005571592241748%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2FicKzZXAEGPyhIQneoU6gABUdufXyywwaMj6ymEkiS8%3D&reserved=0) [email](lihua.li@mountsinai.org)
+- Membership and Engagement Officer: Cynthia Sopko, University of Nevada, Las Vegas [website]() [email]()
+- Communications Officer: Seonjoo Lee, Columbia University [website](https://sites.google.com/site/seonjool) [email](sl3670@cumc.columbia.edu)
+
+
 ### 2025- 2026:
 - Chair: Zheyu Wang, Johns Hopkins University [website](https://profiles.hopkinsmedicine.org/provider/zheyu-wang/2777733#profile-expertise) [e-mail](wangzy@jhu.edu)
 - Past Chair: Charles Hall, Albert Einstein College of Medicine [website](https://einsteinmed.edu/faculty/6913/charles-hall) [e-mail](charles.hall@einsteinmed.edu)
