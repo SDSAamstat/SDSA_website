@@ -22,37 +22,41 @@ library(kableExtra)
 dt_url <- c(
   "https://youtu.be/5haNC1nBoDs",
   "https://amstat.zoom.us/webinar/register/WN_-QrTGG2tS7yKXREkiJn6-Q",
-  "https://youtu.be/HAsSrpZX_Xc"
+  "https://youtu.be/HAsSrpZX_Xc",
+  "https://amstat.zoom.us/webinar/register/WN_t_OqPrVXRueS6ng72bhVaw"
             )
-
 
 tib = tibble(
   `Date` = c(
     "9/25/2025",
     "10/23/2025",
-    "11/19/2025"
+    "11/19/2025",
+    "2/17/2026"
   ),
     `Time` = c(
     "4-5pm ET/3-4pm CT/2-3pm MT/1-2pm PT",
     "noon-1pm ET/11am-noon CT/10-11am MT/9-10am PT",
-    "noon-1pm ET/11am-noon CT/10-11am MT/9-10am PT"),
+    "noon-1pm ET/11am-noon CT/10-11am MT/9-10am PT",
+    "2-3pm ET/1-2pm CT/noon-1pm MT/11am-noon PT"),
   `Speaker` = c(
     "Paola Sebastiani, PhD, Professor of Medicine, Tufts University School of Medicine",
     "Liam Messin, Deputy Editor for Nature Medicine & Sebastien Thuault Chief Editor of Nature Aging",
-    "Lihua Li, PhD, MS, Associate Professor at Icahn School of Medicine at Mount Sinai"
+    "Lihua Li, PhD, MS, Associate Professor at Icahn School of Medicine at Mount Sinai",
+    "Selena Wang, PhD, Assistant Professor, Indiana University School of Medicine"
   ),
   `Title` = c(
     "Metabolite Signatures of Chronological Age, Aging, Survival and Longevity",
     "Aging research at Nature Aging and Nature Medicine",
-    "Integrating propensity score weighting methods and population-based surveys for cancer and aging research"
+    "Integrating propensity score weighting methods and population-based surveys for cancer and aging research",
+    "Implementing Network Science in Generative Statistical Processes"
   ),
   `Registration/talk links` = c(
      "YouTube",
     "Registration",
-    "YouTube"
+    "YouTube",
+    "Registration"
     )
 )
-
 
 kable(tib[nrow(tib):1,], row.names = FALSE) %>%
   kable_styling(bootstrap_options = "striped",font_size = 15, repeat_header_method = "replace") %>%
