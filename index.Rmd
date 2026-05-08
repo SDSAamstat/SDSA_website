@@ -6,11 +6,11 @@ output:
     df_print: paged
 ---
 
-<h1 style="background-color:LightCyan;text-align:center;font-family:'Comic Sans MS';color:RoyalBlue;">Welcome to the Statistics and Data Science in Aging Interest Group!</h1>
+<h1 style="background-color:LightCyan;text-align:center;font-family:'Helvetica';color:RoyalBlue;">Welcome to the Statistics and Data Science in Aging Interest Group!</h1>
 
 <p>
 
-<img src="images/SDSAlogo2.webp" style="width:35%" align="right" hspace="20"> 
+<img src="images/SDSALogoIdeas_2.png" style="width:35%" align="right" hspace="20"> 
 
 </p>
 
@@ -26,7 +26,7 @@ output:
 
 <br>
 
-### 2026 ICSA Applied Statistics Symposium (6/14-6/17, Arlington, Virginia)
+### 2026 ICSA Applied Statistics Symposium (6/14-6/17, Arlington, VA, USA)
 
 * In person meet up: TBA
 
