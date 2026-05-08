@@ -4,6 +4,13 @@
 
 <h1> In person meetings </h1>
 
+### ENAR 2026 Spring Meeting (March 15-18, 2026, in Indianapolis)
+
+<figure>
+<img src="images/ENAR_2026.jpg" style="width:40%" align="center" hspace="20"> 
+</figure>
+<br> 
+
 ### GSA Meeting (November 13, 2025 at 3-4:15pm)
 
 * check out the joint Epidemiology of Aging and Measurement, Statistics, and Research Design business meeting. A debate about the “biggest baddest bias” in aging research will take place November 13 at 3-4:15pm in Convention Center rm 101. 
