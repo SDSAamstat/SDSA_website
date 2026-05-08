@@ -24,7 +24,9 @@ dt_url <- c(
   "https://amstat.zoom.us/webinar/register/WN_-QrTGG2tS7yKXREkiJn6-Q",
   "https://youtu.be/HAsSrpZX_Xc",
   "https://amstat.zoom.us/webinar/register/WN_t_OqPrVXRueS6ng72bhVaw",
-  "https://amstat.zoom.us/webinar/register/WN_9THmLmV1TYmsCs_9mZoDLQ"
+  "https://amstat.zoom.us/webinar/register/WN_9THmLmV1TYmsCs_9mZoDLQ",
+  "https://amstat.zoom.us/webinar/register/WN_vbInOAtCSlSvSEWKoKpXiA",
+  "https://amstat.zoom.us/webinar/register/WN_BfAVhsApQY62Lk2tWVAXoA"
             )
 
 tib = tibble(
@@ -33,32 +35,42 @@ tib = tibble(
     "10/23/2025",
     "11/19/2025",
     "2/17/2026",
-    "3/16/2026"
+    "3/16/2026",
+    "4/20/2026",
+    "5/19/2026"
   ),
     `Time` = c(
     "4-5pm ET/3-4pm CT/2-3pm MT/1-2pm PT",
     "noon-1pm ET/11am-noon CT/10-11am MT/9-10am PT",
     "noon-1pm ET/11am-noon CT/10-11am MT/9-10am PT",
     "2-3pm ET/1-2pm CT/noon-1pm MT/11am-noon PT",
-    "1-2pm ET/noon-1pm CT/11am-noon MT/10am-11am PT"),
+    "1-2pm ET/noon-1pm CT/11am-noon MT/10am-11am PT",
+    "1-2pm ET/noon-1pm CT/11am-noon MT/10am-11am PT",
+    "3-4pm ET/2-3pm CT/1-2pm MT/12-1pm PT"),
   `Speaker` = c(
     "Paola Sebastiani, PhD, Professor of Medicine, Tufts University School of Medicine",
     "Liam Messin, Deputy Editor for Nature Medicine & Sebastien Thuault Chief Editor of Nature Aging",
     "Lihua Li, PhD, MS, Associate Professor at Icahn School of Medicine at Mount Sinai",
     "Selena Wang, PhD, Assistant Professor, Indiana University School of Medicine",
-    "Jilly Herbert, MS, School of Public Health, Washington University"
+    "Jilly Herbert, MS, School of Public Health, Washington University",
+    "Chixiang Chen, PhD, Associate Professor, UMSOM",
+    "Ángel García de la Garza, PhD, Assistant Professor of Biostatistics at the Albert Einstein College of Medicine"
   ),
   `Title` = c(
     "Metabolite Signatures of Chronological Age, Aging, Survival and Longevity",
     "Aging research at Nature Aging and Nature Medicine",
     "Integrating propensity score weighting methods and population-based surveys for cancer and aging research",
     "Implementing Network Science in Generative Statistical Processes",
-    "Does better geographic access to college access impact brain health? Findings from the US Health and Retirement Study"
+    "Does better geographic access to college access impact brain health? Findings from the US Health and Retirement Study",
+    "A New Learning Framework for Integrating Multiple Outcomes into Primary Data Analysis",
+    "Combining Traditional Assessments with Digital Diaries of Self-Perceived Cognitive Difficulties to Predict Incident Mild Cognitive Impairment using Machine Learning"
   ),
   `Registration/talk links` = c(
      "YouTube",
     "Registration",
     "YouTube",
+    "Registration",
+    "Registration",
     "Registration",
     "Registration"
     )
