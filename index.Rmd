@@ -14,7 +14,7 @@ output:
 
 </p>
 
-### Join the SDSA
+## Join the SDSA
 
 <p> Click [here](https://form.jotform.com/zzlalo/friends-of-sdsa) to join SDSA! (Welcome to our new members 😊!)</p>
 
@@ -26,7 +26,7 @@ output:
 
 <br>
 
-### Upcoming Meetings
+## Upcoming Meetings
 
 #### SLDS 2026: Inference and intelligence, Brooklyn Bridge, New York, Nov 1--3, 2026
 
@@ -34,7 +34,7 @@ output:
 
 * Featured session: Parallel Sessions 8: Tuesday, November 3, 2026, 1:30 pm–3:00 pm Innovative Methods in Statistics and Data Science in Aging, organized by Jaime Lynn Speiser (Wake Forest University School of Medicine)
 
-### Fall 2026 - Spring 2027 SDSA Webinars
+## Fall 2026 - Spring 2027 SDSA Webinars
 
 TBA
 
