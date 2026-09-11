@@ -4,6 +4,22 @@
 
 <h1> In person meetings </h1>
 
+
+### IBC 2026 (July 12-16, 2026, in Seoul, South Korea)
+
+
+<figure>
+<img src="images/IBC2026.jpg" style="width:40%" align="center" hspace="20"> 
+</figure>
+<br> 
+
+### IIAG 2026 (July 5-8, 2026, RAI Amsterdam, The Netherlands)
+
+<figure>
+<img src="images/IAGG2026-dinner1-070626.jpeg" style="width:40%" align="center" hspace="20"> 
+</figure>
+<br> 
+
 ### ENAR 2026 Spring Meeting (March 15-18, 2026, in Indianapolis)
 
 <figure>
