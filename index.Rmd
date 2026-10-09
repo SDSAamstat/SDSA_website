@@ -60,29 +60,41 @@ library(kableExtra)
 
 dt_url <- c(
   "https://us02web.zoom.us/webinar/register/WN_2KG2Y9-LSRaXuSXwX7wMNQ#/registration",
-  "https://us02web.zoom.us/webinar/register/WN_5OuKis46ThyozBN4mMBHqQ"
-            )
+  "https://us02web.zoom.us/webinar/register/WN_5OuKis46ThyozBN4mMBHqQ",
+  " ",
+  " "
+  )
 
 tib = tibble(
   `Date` = c(
     "09/17/2026",
-    "10/08/2026"
+    "10/08/2026",
+    "11/12/2026",
+    "12/12/2026"
   ),
     `Time` = c(
     "12pm ET/ 11am CT/ 10am MT/ 9am PT",
-    " 3pm ET/  2pm CT/  1pm MT/ 12pm PT"
+    " 3pm ET/  2pm CT/  1pm MT/ 12pm PT",
+    " 2pm ET/  1pm CT/ 12pm MT/ 11am PT",
+    " 2pm ET/  1pm CT/ 12pm MT/ 11am PT"
     ),
   `Speaker` = c(
     "Gillian T. Coughlan, PhD, Massachusetts General Hospital, Harvard Medical School",
-    "Hui Zhang, PhD, Northwestern University"
+    "Hui Zhang, PhD, Northwestern University",
+    "Kurt Schilling, PhD, Vanderbilt University",
+    "Chixiang Chen, PhD, University of Maryland"
   ),
   `Title` = c(
     "Sex Differences in Alzheimer’s Disease: From Epidemiology to Pathology, Menopause, and Treatment",
-    "Unbiased and Robust Analysis of Co-localization in Super-resolution Microscope Images"
+    "Unbiased and Robust Analysis of Co-localization in Super-resolution Microscope Images",
+    "White Matter across the Lifespan: What changes and Where?",
+    "TBA"
   ),
   `Registration/talk links` = c(
      "Zoom Link",
-     "Zoom Link"
+     "Zoom Link",
+     "Registration",
+     "Registration"
     )
 )
 
