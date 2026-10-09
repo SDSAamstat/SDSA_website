@@ -15,6 +15,46 @@ library(knitr)
 library(kableExtra)
 ```
 
+## Fall 2026 - Spring 2027 SDSA Webinars
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE }
+dt_url <- c(
+  "https://us02web.zoom.us/webinar/register/WN_2KG2Y9-LSRaXuSXwX7wMNQ#/registration",
+  "https://us02web.zoom.us/webinar/register/WN_5OuKis46ThyozBN4mMBHqQ"
+            )
+
+tib = tibble(
+  `Date` = c(
+    "09/17/2026",
+    "10/08/2026"
+  ),
+    `Time` = c(
+    "12pm ET/ 11am CT/ 10am MT/ 9am PT",
+    " 3pm ET/  2pm CT/  1pm MT/ 12pm PT"
+    ),
+  `Speaker` = c(
+    "Gillian T. Coughlan, PhD, Massachusetts General Hospital, Harvard Medical School",
+    "Hui Zhang, PhD, Northwestern University"
+  ),
+  `Title` = c(
+    "Sex Differences in Alzheimer’s Disease: From Epidemiology to Pathology, Menopause, and Treatment",
+    "Unbiased and Robust Analysis of Co-localization in Super-resolution Microscope Images"
+  ),
+  `Registration/talk links` = c(
+     "Zoom Link",
+     "Zoom Link"
+    )
+)
+
+kable(tib[nrow(tib):1,], row.names = FALSE) %>%
+  kable_styling(bootstrap_options = "striped",font_size = 15, repeat_header_method = "replace") %>%
+  column_spec(1, width = ".5cm") %>%
+  column_spec(2, width = "2.2cm") %>%
+  column_spec(3, width = "4cm") %>%
+  column_spec(4, width = "5cm")%>%
+  column_spec(5, width = ".5cm",link = dt_url[nrow(tib):1])
+```
+
 
 ## Fall 2025 - Spring 2026 SDSA Webinars
 
